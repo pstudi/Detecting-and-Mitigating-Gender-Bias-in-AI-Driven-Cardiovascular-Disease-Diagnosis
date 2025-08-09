@@ -23,7 +23,8 @@ This repository contains the implementation and analysis for a master's thesis f
 
 ## 🛠️ Tools and Libraries
 
-- Python 3.10+
+- Virtual Environment (Python 3.9.23) 
+- Python 3.11.9
 - Scikit-learn
 - AIF360
 - Fairlearn
@@ -33,10 +34,9 @@ This repository contains the implementation and analysis for a master's thesis f
 
 ## 📊 Models Used
 
-- Logistic Regression
-- Decision Tree
-- Random Forest
-- XGBoost
+- K-Nearest Neighbors (KNN)
+- Decision Tree (DT)
+- Random Forest (RF)
 - MLP (Multilayer Perceptron)
 
 ---
@@ -44,13 +44,15 @@ This repository contains the implementation and analysis for a master's thesis f
 ## ⚖️ Fairness Evaluation
 
 - **Metrics**: Disparate Impact, Equal Opportunity Difference, Statistical Parity, etc.
-- **Toolkits**:  
+- **Toolkits**:
   - [AIF360](https://github.com/Trusted-AI/AIF360)  
   - [Fairlearn](https://github.com/fairlearn/fairlearn)
+  - [FairMLHealth](https://github.com/KenSciResearch/fairMLHealth)
+  
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
