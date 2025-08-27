@@ -26,7 +26,6 @@ This repository contains the implementation and analysis for a master's thesis f
 - Virtual Environment (Python 3.9.23) 
 - Python 3.11.9
 - Scikit-learn
-- AIF360
 - Fairlearn
 - Pandas, NumPy, Matplotlib, Seaborn
 
@@ -45,7 +44,6 @@ This repository contains the implementation and analysis for a master's thesis f
 
 - **Metrics**: Disparate Impact, Equal Opportunity Difference, Statistical Parity, etc.
 - **Toolkits**:
-  - [AIF360](https://github.com/Trusted-AI/AIF360)  
   - [Fairlearn](https://github.com/fairlearn/fairlearn)
   - [FairMLHealth](https://github.com/KenSciResearch/fairMLHealth)
   
