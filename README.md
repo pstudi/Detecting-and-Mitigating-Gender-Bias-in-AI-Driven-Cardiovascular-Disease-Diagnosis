@@ -1,5 +1,5 @@
 # Detecting-and-Mitigating-Gender-Bias-in-AI-Driven-Cardiovascular-Disease-Diagnosis
-Master's thesis on detecting and mitigating gender bias in cardiovascular disease prediction using machine learning. Includes model training, bias detection with FairMLHealth and Fairlearn, and application of bias mitigation techniques.
+Master's thesis on detecting and mitigating gender bias in cardiovascular disease prediction using machine learning. Includes model training, bias detection with FairMLHealth and Fairlearn, and application of bias mitigation techniques with Fairlearn and AIF360.
 
 # Gender Bias Detection and Mitigation in Cardiovascular Disease Prediction
 
