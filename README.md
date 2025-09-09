@@ -46,6 +46,7 @@ This repository contains the implementation and analysis for a master's thesis f
 - **Toolkits**:
   - [Fairlearn](https://github.com/fairlearn/fairlearn)
   - [FairMLHealth](https://github.com/KenSciResearch/fairMLHealth)
+  - [AIF360](http://aif360.readthedocs.io/en/stable/#)
   
 
 ---
