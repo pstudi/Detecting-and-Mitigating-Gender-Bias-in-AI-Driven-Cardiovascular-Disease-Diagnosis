@@ -22,19 +22,19 @@ Main RQ: How can gender bias in AI-based diagnosis of cardiovascular disease be 
 
 ## 📂 Project Structure
 
-data/: contains the datasets used and their corresponding links to download them
-notebooks/: contains data processing, descriptive statistics, modeling, fairness evaluation and mitigation notebooks
-requirements: packages needed to run the notebooks
-License: open-source license for usage and citation
-README.md: this file
+- data/: contains the datasets used and their corresponding links to download them
+- notebooks/: contains data processing, descriptive statistics, modeling, fairness evaluation and mitigation notebooks
+- requirements: packages needed to run the notebooks
+- License: open-source license for usage and citation
+- README.md: this file
 
 ---
 
 ## Datasets
 
 - [**Kaggle CVD**](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset): A public dataset of ~70,000 patients with 12 clinical variables used to model CVD risk and analyze gender-related disparities
-- **Mendeley** : An anonymized hospital cohort (~1,000 patients, India) with ~14 columns
-- **Composite Heart Failure (HF)**: A compiled set based on five UCI heart datasets (Cleveland, Hungarian, Statlog, Long Beach VA, Switzerland), ~918 instances with 11 clinical features
+- [**Mendeley**](https://data.mendeley.com/datasets/dzz48mvjht/1): An anonymized hospital cohort (~1,000 patients, India) with ~14 columns
+- [**Composite Heart Failure (HF)**](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction/data): A compiled set based on five UCI heart datasets (Cleveland, Hungarian, Statlog, Long Beach VA, Switzerland), ~918 instances with 11 clinical features
 
 ---
 
