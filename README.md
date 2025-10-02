@@ -22,11 +22,11 @@ Main RQ: How can gender bias in AI-based diagnosis of cardiovascular disease be 
 
 ## 📂 Project Structure
 
-- data/: contains the datasets used and their corresponding links to download them
-- notebooks/: contains data processing, descriptive statistics, modeling, fairness evaluation and mitigation notebooks
-- requirements: packages needed to run the notebooks
-- License: open-source license for usage and citation
-- README.md: this file
+- `data/`: contains the datasets used and their corresponding links to download them
+- `notebooks/`: contains data processing, descriptive statistics, modeling, fairness evaluation and mitigation notebooks
+- `Requirements`: packages needed to run the notebooks
+- `License`: open-source license for usage and citation
+- `README.md`: this file
 
 ---
 
