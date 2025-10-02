@@ -32,9 +32,9 @@ README.md: this file
 
 ## Datasets
 
-- Kaggle CVD: A public dataset of ~70,000 patients with 12 clinical variables used to model CVD risk and analyze gender-related disparities 
-- Mendeley CVD: An anonymized hospital cohort (~1,000 patients, India) with ~14 columns
-- Composite Heart Failure: A compiled set based on five UCI heart datasets (Cleveland, Hungarian, Statlog, Long Beach VA, Switzerland), ~918 instances with 11 clinical features
+- [**Kaggle CVD**](https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset): A public dataset of ~70,000 patients with 12 clinical variables used to model CVD risk and analyze gender-related disparities
+- **Mendeley** : An anonymized hospital cohort (~1,000 patients, India) with ~14 columns
+- **Composite Heart Failure (HF)**: A compiled set based on five UCI heart datasets (Cleveland, Hungarian, Statlog, Long Beach VA, Switzerland), ~918 instances with 11 clinical features
 
 ---
 
