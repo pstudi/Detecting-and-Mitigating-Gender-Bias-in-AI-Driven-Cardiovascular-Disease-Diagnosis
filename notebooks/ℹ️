@@ -1,4 +1,0 @@
-ℹ️
-
-For each dataset, a folder has been created that contains all the notebooks, along with the following subfolders: CVD Prediction, Bias Detection, and, if needed, Bias Mitigation. 
-As the experimental setup involves different versions of the dataset with varying gender ratios (75% male, 25% female; 75% female, 25% male; 50% female, 50% male), three versions of each of these notebooks exist.
